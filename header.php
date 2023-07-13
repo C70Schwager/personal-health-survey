@@ -14,15 +14,20 @@
     
 </head>
 
+<header>
+    <div class="container p-5 my-5 bg-primary text-white">
+        <div ></div>
+    </div>
+
+
+
+
+
+</header>
+
 
 
 <body>
-
-<nav>
-  <a href="index.php">Home</a>
-  <a href="about.php">About</a>
-  <a href="result.php">Result</a>
-</nav>
 
 
 
