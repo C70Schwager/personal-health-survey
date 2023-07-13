@@ -63,3 +63,11 @@ Schwellenwerte für "gesund" (mittlere Wichtigkeit bei Frage 3 sowie mindestens 
 Die Auswertung wird auf einer Schlussseite angezeigt und kann zum Beispiel "Toll! Du lebst gesund." oder "Autsch! Du könntest mehr für deine Gesundheit tun." als Text, Bild usw. plakativ und humorvoll darstellen.
 
 Dieses README dient als Einführung in die Umfrage und kann entsprechend ergänzt oder angepasst werden.
+
+
+
+Auswertung Punkte:
+
+schlechte range <=14
+mittlere range >=14 aber <28
+gute range >= 28
